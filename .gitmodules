@@ -1,0 +1,12 @@
+[submodule "components/esp32-firmware"]
+	path = components/esp32-firmware
+	url = https://github.com/epictrave/esp32-firmware.git
+[submodule "components/esp-azure"]
+	path = components/esp-azure
+	url = https://github.com/espressif/esp-azure.git
+[submodule "components/esp32-wifi-setting-server"]
+	path = components/esp32-wifi-setting-server
+	url = https://github.com/epictrave/esp32-wifi-setting-server.git
+[submodule "components/esp32-api"]
+	path = components/esp32-api
+	url = https://github.com/epictrave/esp32-api.git
